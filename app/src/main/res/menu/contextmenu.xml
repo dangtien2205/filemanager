@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuEditName"
+        android:title="Edit Name">
+    </item>
+    <item
+        android:id="@+id/mnuCopy"
+        android:title="Copy">
+    </item>
+    <item
+        android:id="@+id/mnuCut"
+        android:title="Cut">
+    </item>
+    <item
+        android:id="@+id/mnuDelete"
+        android:title="Delete">
+    </item>
+    <item
+        android:id="@+id/mnuProperties"
+        android:title="Properties">
+    </item>
+</menu>
